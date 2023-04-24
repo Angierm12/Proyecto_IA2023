@@ -10,4 +10,5 @@
 
 Los datos que usaremos parte este proyecto vienen de un dataset de Kaggle, llamado The Movies Dataset
 
+## Vídeos
 Vídeo de los avances de la segunda entrega: https://www.youtube.com/watch?v=qpkmBjshIHI&ab_channel=ORLANDOJOSESALAZARPOLO
