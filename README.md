@@ -12,5 +12,6 @@ Los datos que usaremos parte este proyecto vienen de un dataset de Kaggle, llama
 
 ## Vídeos
 Vídeo de los avances de la segunda entrega: https://www.youtube.com/watch?v=qpkmBjshIHI&ab_channel=ORLANDOJOSESALAZARPOLO
+
 Vídeo de la entrega final: https://youtu.be/tVOnfWakY90
 
